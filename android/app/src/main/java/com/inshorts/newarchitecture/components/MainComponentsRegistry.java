@@ -1,4 +1,4 @@
-package com.redink.newarchitecture.components;
+package com.redinkUI.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

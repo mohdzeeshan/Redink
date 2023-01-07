@@ -1,4 +1,4 @@
-package com.redink.newarchitecture;
+package com.redinkUI.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.redink.BuildConfig;
-import com.redink.newarchitecture.components.MainComponentsRegistry;
-import com.redink.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.redinkUI.BuildConfig;
+import com.redinkUI.newarchitecture.components.MainComponentsRegistry;
+import com.redinkUI.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

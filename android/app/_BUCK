@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.redink",
+    package = "com.redinkUI",
 )
 
 android_resource(
     name = "res",
-    package = "com.redink",
+    package = "com.redinkUI",
     res = "src/main/res",
 )
 
